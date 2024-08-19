@@ -5,7 +5,7 @@
 hello()
 }
 \description{
-Prints 'Coucou la R&D! Dans ce package se trouvent toutes vos fonctions R.'.
+Prints 'V2 Coucou la R&D! Dans ce package se trouvent toutes vos fonctions R.'.
 }
 \examples{
 hello()
