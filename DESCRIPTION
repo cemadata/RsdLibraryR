@@ -1,0 +1,10 @@
+Package: RsdLibraryR
+Type: Package
+Title: Bibliothèque de fonctions R
+Version: 0.1.0
+Author: Lukas Boschet
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Package permettant de stocker les fonction biostats & data R de la RsD
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
