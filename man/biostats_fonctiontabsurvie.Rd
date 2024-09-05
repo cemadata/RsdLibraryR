@@ -5,7 +5,7 @@
 biostats_fonctiontabsurvie()
 }
 \description{
-Cette fonction permet la creation d'une table de survie.
+Cette fonction permet la creation d'une table de survie globale.
 }
 \examples{
 biostats_fonctiontabsurvie()
